@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Accueil bas</title>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="accueil_infos.css">
-
-	</head>
-	<body>
-
 		<div class="container" >
 			<fieldset class="accueil_infos">
 				<legend>
@@ -70,7 +58,4 @@
 					</div>
 				</div>
 			</fieldset>
-		</div>
-	<?php //script src statements moved to js_inc.php?>
-	</body>
-</html>
+		</div> 

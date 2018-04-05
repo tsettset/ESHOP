@@ -99,7 +99,7 @@
                         <a class="nav-link" href="#">Pose</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Sanitaires</a>
+                        <a class="nav-link" href="sanitaires.php">Sanitaires</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contact</a>
