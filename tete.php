@@ -1,5 +1,4 @@
-<div class="container" style="box-shadow: 1px 1px 12px #555;">
-<header>
+<header><!-- style="box-shadow: 1px 1px 12px #555;" -->
     <div class="row justify-content-sm-center ligne1" >
         <div class="col-md-2 ">Satisfait ou remboursé</div>
         <div class="col-md-8 ligne1a">Besoin d'aide? <i class="fas fa-phone"></i> 01 28 02 27 45<span>(appel gratuit)</span></div>
@@ -61,15 +60,13 @@
     </div>
 
 </header>
-</div>
-
 
 
         <!--<a class="navbar-brand" href="tete.php"><img src="img/home.png"></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button>-->
-           <div class="container" style="padding : 0; box-shadow: 1px 1px 12px #555;">
+    <div style="padding : 0; box-shadow: 1px 1px 12px #555;">
         <nav class="navbar navbar-expand-md navbar-light bg-light" style="padding : 0 16px">
 
             <a class="navbar-brand offset-md-1" href="tete.php"><img src="img/home.png"></a>
@@ -81,7 +78,7 @@
 
                 <ul class="navbar-nav col-md-7 mr-5">
                     <li class="nav-item">
-                        <a class=" nav-link" href="#">Carrelage</a>
+                        <a class=" nav-link" href="carrelage.php">Carrelage</a>
                     </li>
                     <li class="nav-item">
                         <a class=" nav-link" href="#">Parquet</a>
@@ -117,7 +114,8 @@
             </div>
 
         </nav>
-         </div>
+  </div>
+
         <!--<section>
 <div class="jumbotron">
 <div class="row">

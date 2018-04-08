@@ -1,4 +1,4 @@
-		<div class="container" >
+<!--		<div class="container" > -->
 			<fieldset class="accueil_infos">
 				<legend>
 					<div class="etiquette_accueil_bas">ESHOP</div>
@@ -58,4 +58,4 @@
 					</div>
 				</div>
 			</fieldset>
-		</div> 
+<!--		</div>  -->
