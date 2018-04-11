@@ -1,9 +1,7 @@
-<br>
-
 <div class="container" style="padding : 0;">
     <div class="row">
         <div id="MagicCarousel" class="carousel slide col-md-8" data-ride="carousel" data-interval="false">
-            <ol class="carousel-indicators" style="margin :0;"> 
+            <ol class="carousel-indicators" style="margin :0;">
                 <li data-target="#MagicCarousel" data-slide-to="0"></li>
                 <li data-target="#MagicCarousel" data-slide-to="1"></li>
                 <li data-target="#MagicCarousel" data-slide-to="2"></li>
@@ -62,7 +60,7 @@
                 <figcaption class="figure-caption text-white text-center">A caption for the above image.</figcaption>
             </figure>
 
-        </div>    
+        </div>
 
     </div>
 
@@ -81,7 +79,7 @@
         <div class="col">
             <p><img class="img-fluid" src="img/satisfait.png" alt="paiement securise"> Satisfait ou remboursé</p>
             <p><img class="img-fluid" src="img/echange.png" alt="paiement securise"> Echange et retour facile</p>
-        </div> 
+        </div>
         <div class="col">
             <p><img class="img-fluid" src="img/euros.png" alt="paiement securise"> Facilité de paiement 3x sans frais dès xxx €</p>
         </div>
@@ -105,7 +103,7 @@
             <div class="row" style="margin :0;">
                 <div class="col">
                     <div class="ajuster text-center">
-                        <img class="img-fluid tail2" src="img/parq5.jpg" alt="imag4"> 
+                        <img class="img-fluid tail2" src="img/parq5.jpg" alt="imag4">
                         <div class="container">
                             <div class="col">
                                 Carreaux de ciment imitation
@@ -149,7 +147,7 @@
                 <!------------------------------------------------------------------------------------------------------------------------------------------------------>
                 <div class="col">
                     <div class="ajuster text-center">
-                        <img class="img-fluid tail2" src="img/parq6.jpg" alt="imag4"> 
+                        <img class="img-fluid tail2" src="img/parq6.jpg" alt="imag4">
                         <div class="container">
                             <div class="col">
                                 Carreaux de ciment imitation
@@ -171,75 +169,3 @@
             </div>
         </div>
     </div>
-        <!--<div class="ajuster text-center">
-<img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
-<div class="container-fluid">
-<div class="col">
-Carreaux de ciment imitation
-</div>
-<div class="col couleur">
-19,99 € TTC /m²
-</div>
-<div class="row">
-<div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;Voir le produit</div>
-<div class="col fond text-white">Ajout au panier</div>
-</div>
-
-</div>
-<div class="col coulgris text-white">
-<img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;Demande de devis personnalisé
-</div>
-</div>
-</div>
-
-<div class="col ml-6">
-<div class="ajuster text-center">
-<img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
-<div class="container-fluid">
-<div class="col">
-Carreaux de ciment imitation
-</div>
-<div class="col couleur">
-19,99 € TTC /m²
-</div>
-<div class="row">
-<div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;Voir le produit</div>
-<div class="col fond text-white">Ajout au panier</div>
-</div>
-
-</div>
-<div class="col coulgris text-white">
-<img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;Demande de devis personnalisé
-</div>
-</div>
-
-<div class="ajuster text-center">
-<img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
-<div class="container-fluid">
-<div class="col">
-Carreaux de ciment imitation
-</div>
-<div class="col couleur">
-19,99 € TTC /m²
-</div>
-<div class="row">
-<div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;Voir le produit</div>
-<div class="col fond text-white">Ajout au panier</div>
-</div>
-
-</div>
-<div class="col coulgris text-white">
-<img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;Demande de devis personnalisé
-</div>
-</div>
-
-</div>
-</div>-->
-
-
-
-        <?php 
-    include'accueil_infos.php';
-    include'pied.php';
-
-        ?>

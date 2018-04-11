@@ -6,10 +6,8 @@
       ?>
     </head>
     <body>
-
-
-		<div class="container">
       <?php include 'tete.php'; ?>
+      <div class="container-fluid">
       <!--breadcrumb-->
 			<div class="row">
 				<nav aria-label="breadcrumb" class="col-sm-12">
