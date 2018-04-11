@@ -22,7 +22,7 @@
 
 // Find all iframes
 var $iframes = $( "iframe" );
- 
+
 // Find &#x26; save the aspect ratio for all iframes
 $iframes.each(function () {
   $( this ).data( "ratio", this.height / this.width )
@@ -30,7 +30,7 @@ $iframes.each(function () {
 	.removeAttr( "width" )
 	.removeAttr( "height" );
 });
- 
+
 // Resize the iframes when the window is resized
 $( window ).resize( function () {
   $iframes.each( function() {
