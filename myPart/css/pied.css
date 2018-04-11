@@ -1,16 +1,17 @@
 footer{
 	background : #f5f5f5;
 }
+
 .celluleFooter{
 	padding-top: 10px;
 }
 .titreFooter{
-	text-align: center; 
+	text-align: center;
 	font-weight: bold;
 }
 .titreFooter ~ a {
-	font-size: 0.8em; 
-	text-decoration: underline; 
+	font-size: 0.8em;
+	text-decoration: underline;
 	color: black;
 }
 .smFont {
@@ -20,19 +21,19 @@ footer{
 	height:20px;
 }
 .footerNewsletterForm{
-	background-color: rgb(235, 231, 232); 
-	padding: 5px; 
+	background-color: rgb(235, 231, 232);
+	padding: 5px;
 	text-align:center;
 }
 .newsletterLabel{
-	font-style : italic; 
-	white-space: nowrap;
+	font-style : italic;
+	white-space: wrap;
 }
 .newsletterInput{
 	font-style : italic;
 }
 .newsletterPrepend{
-	background-color: rgb(145, 145, 145); 
+	background-color: rgb(145, 145, 145);
 	color: white;
 }
 
@@ -45,19 +46,19 @@ footer{
   overflow: hidden;
   margin: auto;
 }
- 
+
 /* 16x9 Aspect Ratio */
 .intrinsic-container-16x9 {
   padding-bottom: 56.25%;
   margin: auto;
 }
- 
+
 /* 4x3 Aspect Ratio */
 .intrinsic-container-4x3 {
   padding-bottom: 75%;
   margin: auto;
 }
- 
+
 .intrinsic-container iframe {
   position: absolute;
   top: 0;

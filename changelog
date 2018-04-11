@@ -1,0 +1,12 @@
+- Creation du fichier d'inclusion js : js_inc.php
+- Ajouts js_inc.php :
+    Depuis accueil_infos ligne 74
+    Depuis pied.php ligne 80
+    Depuis tete.php ligne 3 puis ligne 80
+
+- creation du dossier backup et deplacement de test.php dedans
+- creation du dossier js et deplacement dedans de :
+        - jquery-3.3.3.1.js
+        - pied.js
+- include js_inc.php dans pied
+- creation de index.php

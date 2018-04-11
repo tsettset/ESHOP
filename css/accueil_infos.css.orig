@@ -1,0 +1,64 @@
+/*
+* Styles pour l'element informatif en bas de page d'accueil, avant le pied
+*/
+
+/* etiquette "ESHOP" avec bord en triangle  ---- DEBUT */
+.etiquette_accueil_bas{ 
+	background: rgb(246, 39, 117); 
+	width: 90px; 
+	text-align: center;
+	display: inline-block;
+	float: left;
+}
+.arrow-right{
+	width: 0; 
+	height: 0;
+	border-top: 17px solid transparent;
+	border-bottom: 19px solid transparent;
+	border-left: 23px solid rgb(246, 39, 117);
+	float: left;
+	display: inline-block;
+}
+/* ---- FIN*/
+/*****************************************************/
+/* style du conteneur general*/
+.accueil_infos{
+	background: rgb(97, 97, 97); 
+	color: white; 
+	font-size: 0.8em;
+}
+/*****************************************************/
+/*cellules bootstrap --- DEBUT*/
+.accueil_infos_cell{
+	text-align : center;
+	padding-top : 20px;
+}
+.accueil_icon_cell{
+	text-align : center;
+}
+.rightBorderQuery{
+	border-right: 0px;	
+}
+.hauteur-info-10{
+	height:10px;
+}
+.last_info_cell{
+	color: rgb(246, 39, 117); 
+	text-align: center; 
+	font-style: italic;
+}
+
+/*--- FIN*/
+/*****************************************************/
+/*Media queries pour modifier cellules et bordures associees*/
+@media screen and (min-width: 768px){
+	.accueil_infos_cell{
+		text-align : left;
+	}
+	.accueil_icon_cell{
+		text-align : right;
+	}
+	.rightBorderQuery{
+		border-right : 1px solid #6c757d !important;	
+	}
+}
