@@ -1,16 +1,8 @@
-<?php
-
-include'tete.php' 
-
-?>
-
 <br>
-
-
 <div class="container" style="padding : 0;">
     <div class="row">
         <div id="MagicCarousel" class="carousel slide col-md-8" data-ride="carousel" data-interval="false">
-            <ol class="carousel-indicators"> 
+            <ol class="carousel-indicators">
                 <li data-target="#MagicCarousel" data-slide-to="0"></li>
                 <li data-target="#MagicCarousel" data-slide-to="1"></li>
                 <li data-target="#MagicCarousel" data-slide-to="2"></li>
@@ -59,7 +51,7 @@ include'tete.php'
             <a class="carousel-control-next" href="#MagicCarousel" role="button" data-slide="next">
                 <span class="carousel-control-next-icon"></span>
                 <span class="sr-only">Next</span>
-            </a>--> 
+            </a>-->
         </div>
         <div class="col-md-4">
             <figure class="figure">
@@ -72,7 +64,7 @@ include'tete.php'
                 <figcaption class="figure-caption text-white text-center">A caption for the above image.</figcaption>
             </figure>
 
-        </div>    
+        </div>
 
     </div>
 
@@ -91,7 +83,7 @@ include'tete.php'
         <div class="col">
             <p><img class="img-fluid" src="img/satisfait.png" alt="paiement securise"> Satisfait ou remboursé</p>
             <p><img class="img-fluid" src="img/echange.png" alt="paiement securise"> Echange et retour facile</p>
-        </div> 
+        </div>
         <div class="col">
             <p><img class="img-fluid" src="img/euros.png" alt="paiement securise"> Facilité de paiement 3x sans frais dès xxx €</p>
         </div>
@@ -114,7 +106,7 @@ include'tete.php'
         <div class="row">
             <div class="col mr-6">
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
+                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
                     <div class="container-fluid">
                         <div class="col">
                             Carreaux de ciment imitation
@@ -135,7 +127,7 @@ include'tete.php'
 
 
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
+                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
                     <div class="container-fluid">
                         <div class="col">
                             Carreaux de ciment imitation
@@ -157,7 +149,7 @@ include'tete.php'
 
             <div class="col">
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
+                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
                     <div class="container-fluid">
                         <div class="col">
                             Carreaux de ciment imitation
@@ -177,7 +169,7 @@ include'tete.php'
                 </div>
 
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
+                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
                     <div class="container-fluid">
                         <div class="col">
                             Carreaux de ciment imitation
@@ -199,7 +191,7 @@ include'tete.php'
 
             <div class="col ml-6">
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
+                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
                     <div class="container-fluid">
                         <div class="col">
                             Carreaux de ciment imitation
@@ -219,7 +211,7 @@ include'tete.php'
                 </div>
 
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4"> 
+                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
                     <div class="container-fluid">
                         <div class="col">
                             Carreaux de ciment imitation
@@ -241,10 +233,3 @@ include'tete.php'
             </div>
         </div>
     </div>
-
-
-    <?php 
-
-    include'pied.php';
-
-    ?>
