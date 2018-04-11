@@ -1,11 +1,4 @@
-<?php
-
-include'tete.php' 
-
-?>
-
 <br>
-
 
 <div class="container" style="padding : 0;">
     <div class="row">

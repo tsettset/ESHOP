@@ -16,7 +16,7 @@
     </head>
     <body>
        
-           <div class="container" style="box-shadow: 1px 1px 12px #555;">
+           <div class="container-fluid" style="box-shadow: 1px 1px 12px #555;">
             <header>
                 <div class="row justify-content-sm-center ligne1" >
                     <div class="col-md-2 ">Satisfait ou remboursé</div>
@@ -87,7 +87,7 @@
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button>-->
-           <div class="container" style="padding : 0; box-shadow: 1px 1px 12px #555;">
+           <div class="container-fluid" style="padding : 0; box-shadow: 1px 1px 12px #555;">
         <nav class="navbar navbar-expand-md navbar-light bg-light" style="padding : 0 16px">
         
             <a class="navbar-brand offset-md-1" href="tete.php"><img src="img/home.png"></a>
