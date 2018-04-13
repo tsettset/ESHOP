@@ -1,19 +1,4 @@
-<?php
-$breadcrumbItem1 = 'Accueil';
-$breadcrumbItem2 = 'Sanitaires';
-$titreH1 = 'Sanitaires';
-$bgImgTitre = 'img/bgSanitaires.jpg';
-$sousTitre = 'Découvrez nos produits Sanitaires<br>Ainsi que leurs accessoires pour vous débarasser des nuisibles';
-$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
-$slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
-$slidesAlts = array ('first slide', 'second slide', 'third slide', 'fourth slide', 'fifth slide');
-$colCategoriesTitles = array ('Carrelage salle de bain et WC', 'Evacuation des eaux usees', 'Amenagement salle de bain',
-                                'Amenagement cuisine', 'Amenagement WC', 'Accessoires deco sanitaires');
-
-
-
-
-?>
+<?php require('func.cat.php'); ?>
 <!DOCTYPE html>
 <html>
     <head>
