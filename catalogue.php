@@ -21,7 +21,7 @@
       <!--/breadcrumb-->
       <!--Titre de page-->
 			<div class="row">
-				<div class="col-sm-12" style="background-image: url('<?= $bgImgTitre;?>'); color: white;">
+				<div class="col-sm-12 text-center" style="background-image: url('<?= $bgImgTitre;?>'); color: white;">
 					<h1><?= $titreH1; ?></h1>
 					<h5><?= $sousTitre; ?></h5>
 				</div>
@@ -29,16 +29,12 @@
       <!--/Titre de page-->
       <!--Suggestions-->
 			<div class="row" style="background-color: #e9ecef;">
-				<!--<div class="row">
-					<div class="col-sm-8 offset-1">
+
+					<div class="row col-sm-10 text-center offset-2">
             <h2>Découvrez nos suggestions </h2>
-						<h6>Des combinaisons imaginées par nos équipes
-						pour inspirer votre décoration</h6>
 					</div>
-        </div>-->
           <!--Carousel-->
-        <div class="row container">
-          <div class="col-sm-6 offset-4">
+          <div class="row col-sm-10 offset-2">
               <div id="MagicCarousel" class="carousel slide " data-ride="carousel" data-interval="false">
                   <ol class="carousel-indicators">
                       <li data-target="#MagicCarousel" data-slide-to="0"></li>
@@ -79,9 +75,7 @@
                         </div>
                       </div>
                   </div>
-
-              </div>
-          <!--/Carousel-->
+          <!--Carousel-->
           </div>
         </div>
 			</div>
@@ -91,7 +85,7 @@
           <div class="row">
               <div class="col mr-6">
                   <div class="ajuster text-center">
-                      <img class="img-fluid" src="img/img4.jpg" alt="imag4">
+                      <img class="img-fluid" src="<?= $colCategoriesImgs[0]; ?>" alt="<?= $colCategoriesAlts[0]; ?>">
                       <div class="container-fluid">
                           <div class="col categorie-title">
                               <?= $colCategoriesTitles[0]; ?>
@@ -103,7 +97,7 @@
                       </div>
                   </div>
                   <div class="ajuster text-center">
-                      <img class="img-fluid" src="img/img4.jpg" alt="imag4">
+                      <img class="img-fluid" src="<?= $colCategoriesImgs[1]; ?>" alt="<?= $colCategoriesAlts[1]; ?>">
                       <div class="container-fluid">
                           <div class="col categorie-title">
                               <?= $colCategoriesTitles[1]; ?>
@@ -114,7 +108,7 @@
                       </div>
                   </div>
                   <div class="ajuster text-center">
-                      <img class="img-fluid" src="img/img4.jpg" alt="imag4">
+                      <img class="img-fluid" src="<?= $colCategoriesImgs[2]; ?>" alt="<?= $colCategoriesAlts[2]; ?>">
                       <div class="container-fluid">
                           <div class="col categorie-title">
                               <?= $colCategoriesTitles[2]; ?>
@@ -127,7 +121,7 @@
               </div>
               <div class="col ml-6">
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
+                    <img class="img-fluid" src="<?= $colCategoriesImgs[3]; ?>" alt="<?= $colCategoriesAlts[3]; ?>">
                     <div class="container-fluid">
                         <div class="col categorie-title">
                               <?= $colCategoriesTitles[3]; ?>
@@ -138,7 +132,7 @@
                     </div>
                 </div>
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
+                    <img class="img-fluid" src="<?= $colCategoriesImgs[4]; ?>" alt="<?= $colCategoriesAlts[4]; ?>">
                     <div class="container-fluid">
                         <div class="col categorie-title">
                             <?= $colCategoriesTitles[4]; ?>
@@ -149,7 +143,7 @@
                     </div>
                 </div>
                 <div class="ajuster text-center">
-                    <img class="img-fluid" src="img/img4.jpg" alt="imag4">
+                    <img class="img-fluid" src="<?= $colCategoriesImgs[5]; ?>" alt="<?= $colCategoriesAlts[5]; ?>">
                     <div class="container-fluid">
                         <div class="col categorie-title">
                               <?= $colCategoriesTitles[5]; ?>

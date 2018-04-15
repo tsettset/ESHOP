@@ -11,7 +11,7 @@ background-image: linear-gradient(to bottom, white, #E9F1F8);
     background-color: #333;
     text-align: center;
     color : white;
-    font-size: 12px;    
+    font-size: 12px;
 
 }
 
@@ -112,7 +112,7 @@ figure {
 margin-left: 30px;
 content:url(img/users.png);
 }
-*/    
+*/
 #basic-addon1{
 
     border-top-right-radius: 3px;
@@ -157,7 +157,7 @@ form{
 .carousel-indicators li{
     border: 1px solid white;
     width: 12px;
-    height: 12px; 
+    height: 12px;
 }
 
 .carousel-indicators{
@@ -190,9 +190,9 @@ form{
     left: 10px;
     font-size:18px; /* Taille des caractères */
     width:50px; /* Largeur du div */
-    height:10px; 
+    height:10px;
     z-index: 2;
-   
+
 }
 
 
@@ -245,8 +245,8 @@ form{
 
 
 
-.produits{ 
-    background: rgb(246, 39, 117); 
+.produits{
+    background: rgb(246, 39, 117);
     /*width: 90px; */
     text-align: center;
     display: inline-block;
@@ -260,7 +260,7 @@ form{
 
 }
 .triangle{
-    width: 0; 
+    width: 0;
     height: 30px;
     border-top: 30px solid transparent;
     border-bottom: 0 solid transparent;
@@ -288,7 +288,7 @@ hr{
 
 .couleur {
 
-    color: rgb(246, 39, 117); 
+    color: rgb(246, 39, 117);
 }
 
 .ajuster{
@@ -316,3 +316,6 @@ a{
 }
 
 
+.row-pose{
+  padding-top:30px;
+}

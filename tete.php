@@ -62,25 +62,25 @@
         <div class="collapse navbar-collapse" id="collapse_target">
             <ul class="navbar-nav col-md-7 mr-5">
                 <li class="nav-item">
-                    <a class=" nav-link" href="carrelage.php">Carrelage</a>
+                    <a class=" nav-link" href="catalogue.php?page=carrelage">Carrelage</a>
                 </li>
                 <li class="nav-item">
-                    <a class=" nav-link" href="#">Parquet</a>
+                    <a class=" nav-link" href="catalogue.php?page=parquet">Parquet</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Exterieur</a>
+                    <a class="nav-link" href="catalogue.php?page=exterieur">Exterieur</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text" href="#">Mur</a>
+                    <a class="nav-link text" href="catalogue.php?page=mur">Mur</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Accessoires</a>
+                    <a class="nav-link" href="catalogue.php?page=accessoires">Accessoires</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Pose</a>
+                    <a class="nav-link" href="catalogue.php?page=pose">Pose</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="sanitaires.php">Sanitaires</a>
+                    <a class="nav-link" href="catalogue.php?page=sanitaires">Sanitaires</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
