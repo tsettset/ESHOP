@@ -103,7 +103,7 @@
             <div class="row" style="margin :0;">
                 <div class="col">
                     <div class="ajuster text-center">
-                        <img class="img-fluid tail2" src="img/parq5.jpg" alt="imag4">
+                        <img class="img-fluid tail2" src="carrsol1.jpg" alt="carrelage sol">
                         <div class="container">
                             <div class="col">
                                 Carreaux de ciment imitation
@@ -125,7 +125,8 @@
                 <!------------------------------------------------------------------------------------------------------------------------------------------------------>
                 <div class="col">
                     <div class="ajuster text-center">
-                       <div class="band"></div><img class="img-fluid tail2" src="img/carr5.jpg" alt="imag4">
+                      <img class="img-fluid tail2" src="img/carr5.jpg" alt="imag4">
+                       <div class="band band2"></div>
                         <div class="container">
                             <div class="col">
                                 Carreaux de ciment imitation

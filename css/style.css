@@ -179,20 +179,23 @@ form{
 
     width : 800px;
     height : 200px;
+    position: relative;
     overflow: hidden;
-    z-index: 1
+
 }
 
 .band{
     position: absolute;
-    background-color : #DC1767;
-    transform: rotate(20deg);
-    left: 10px;
-    font-size:18px; /* Taille des caractères */
-    width:50px; /* Largeur du div */
-    height:10px; 
-    z-index: 2;
-   
+    /*background-color : #DC1767;*/
+    transform: rotate(-135deg);
+    width: 0;
+    left : 130px;
+    height: 0;
+    top : -15px;
+    border-top: 30px solid #DC1767;
+    border-right: 30px solid transparent;
+
+
 }
 
 
