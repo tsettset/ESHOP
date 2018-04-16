@@ -160,20 +160,21 @@
               <form action="#" class="ws-validate">
                 <h5>Date de rendez-vous :</h5>
                 <div class="form-row">
-                  <input type="date" class="hide-replaced" />
+                  <input type="date" class="hide-replaced col-md-8" />
+                  <button type="submit" class="btn btn-info col-md-3" id="btnDate">
+                    <small><em>valider</em></small>
+                  </button>
                 </div>
-                <div class="form-group">
-                  <label for="heure">
-                    Selectionnez une plage horaire
-                  </label>
-                  <select id="heure" name="heure" class="form-control">
-                    <option value="matin" selected="">Matin (9h-12h)</option>
+                <div class="form-row">
+                  <select id="heure" name="heure" class="form-control col-md-8">
+                    <option value="na">Selectionnez une plage horaire</option>
+                    <option value="matin">Matin (9h-12h)</option>
                     <option value="aprem">Apres-midi (13h-17h)</option>
                   </select>
+                  <button type="submit" class="btn btn-info col-md-3" id="btnHeure">
+                    <small><em>valider</em></small>
+                  </button>
                 </div>
-                <button type="submit" class="btn btn-info" id="btnLogin">
-                  <small><em>valider</em></small>
-                </button>                
               </form>
             </div>
           </div>
