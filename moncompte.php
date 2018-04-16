@@ -92,8 +92,6 @@ function affiche_accueil(){
   et <strong>4</strong> enregistres.
   <?php
 }
-?>
-<?php
 function affiche_param_email(){
   ?>
   <form class="form-inline ">
@@ -165,7 +163,8 @@ function affiche_mod_address(){
   </form>
   <?php
 }
-function affiche_paiement(){?>
+function affiche_paiement(){
+  ?>
   <div class="row">
     <div class="col-md-12 text-center">
       <img src="img/credit_card_logo.jpg" class="img-fluid" alt="credit cards">
