@@ -23,7 +23,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6">
-                        <a href="#">
+                        <a href="moncompte.php">
                             <div class="row">
                                 <div class="test">Mon compte<br><span>Se connecter</span></div>&nbsp;
                                 <div class="test2"><img class="float-left" src="img/users.png" title="moncompte" alt="user"/></div>
@@ -41,7 +41,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 ">
-                        <a href="#">
+                        <a href="monpanier.php">
                             <div class="row">
                                 <div class="test">Mon panier<br><span>0€ - 0 Produit(s)</span></div>&nbsp;
                                 <div class="test2"><img class="float-left" src="img/panier.png" title="moncompte" alt="user"/></div>
@@ -77,13 +77,13 @@
                     <a class="nav-link" href="catalogue.php?page=accessoires">Accessoires</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="catalogue.php?page=pose">Pose</a>
+                    <a class="nav-link" href="pose.php">Pose</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="catalogue.php?page=sanitaires">Sanitaires</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="contact.php">Contact</a>
                 </li>
             </ul>
             <form class="form-inline">

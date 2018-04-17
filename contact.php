@@ -1,3 +1,4 @@
+<?php require('breadcrumb.php'); ?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -7,10 +8,15 @@
 
     </head>
     <body>
-      <div class="container-fluid">
       <?php include 'tete.php'; ?>
+      <div class="container-fluid">
 
-
+      <!--breadcrumb-->
+      <?php
+      $bc = array('Accueil','Contact');
+      afficheBreadcrumb($bc);
+      ?>
+      <!--/breadcrumb-->
 <!------ Include the above in your HEAD tag ---------->
 
 <div class="contact-jumbotron contact-jumbotron-sm">

@@ -1,3 +1,4 @@
+<?php require('breadcrumb.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,18 +10,23 @@
 <body>
   <?php include 'tete.php'; ?>
   <div class="container-fluid">
-    <div class="contact-jumbotron contact-jumbotron-sm">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-lg-12">
-            <h1 class="contact-titre">
-              Prendre rendez-vous pour une pose
-              <small> <br>&nbsp;&nbsp;&nbsp;Tous nos produits poses par nos professionnels chez vous !</small>
-            </h1>
-          </div>
-        </div>
+    <!--breadcrumb-->
+    <?php
+    $bc = array('Accueil','Pose');
+    afficheBreadcrumb($bc);
+    ?>
+    <!--/breadcrumb-->
+
+    <!--Titre de page-->
+    <div class="container-fluid">
+      <div class="row">
+      <div class="col-sm-12 text-center" style="background-image: url('img/pose-bg.jpg');">
+        <h1>Prendre rendez-vous pour une pose</h1>
+        <h5>Tous nos produits poses par nos professionnels chez vous !</h5>
       </div>
     </div>
+    </div>
+    <!--/Titre de page-->
 
     <div class="container">
       <div class="row">
@@ -30,11 +36,13 @@
             <div class="row row-pose">
               <div class="col-md-4 text-right"><h5>Vos informations</h5></div>
               <div class="col-md-4">
-                <form action="#">
-                  <button type="submit" class="btn btn-info" id="btnLogin">
-                    <small><em>Connexion ou inscription</em></small>
-                  </button>
-                </form>
+                <div class="form-group">
+                  <form action="moncompte.php">
+                    <button type="submit" class="btn btn-info" id="btnLogin">
+                      <small><em>Connexion ou inscription</em></small>
+                    </button>
+                  </form>
+                </div>
               </div>
             </div>
             <div class="row row-pose">

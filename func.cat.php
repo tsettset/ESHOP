@@ -67,7 +67,7 @@ function setCarrelage(){
   $titreH1 = 'Carrelage';
   $bgImgTitre = 'img/bgCarrelage.jpg';
   $sousTitre = 'Découvrez nos carrelages<br>Et leurs outillages, accessoires, on a tout pas cher wallah !';
-  $slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
+  /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
   $slidesAlts = array ('first slide', 'second slide', 'third slide', 'fourth slide', 'fifth slide');
   $colCategoriesTitles = array ('Carrelage salle de bain et WC', 'Carrelage Mural', 'Carrelage sol',
@@ -76,7 +76,7 @@ function setCarrelage(){
                                 'img/sani-cuisine-1.jpg', 'img/sani-amenagement-wc.png', 'img/sani-deco-1.jpg');
   $colCategoriesAlts = array('Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image',
                               'Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image');
-
+*/
 }
 
 function setParquet(){
@@ -86,7 +86,7 @@ function setParquet(){
   $titreH1 = 'Parquet';
   $bgImgTitre = 'img/bgSanitaires.jpg';
   $sousTitre = 'Découvrez nos parquets<br>Et leurs outillages, accessoires, on a tout pas cher wallah !';
-  $slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
+  /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
   $slidesAlts = array ('first slide', 'second slide', 'third slide', 'fourth slide', 'fifth slide');
   $colCategoriesTitles = array ('Carrelage salle de bain et WC', 'Carrelage Mural', 'Carrelage sol',
@@ -95,7 +95,7 @@ function setParquet(){
                                 'img/sani-cuisine-1.jpg', 'img/sani-amenagement-wc.png', 'img/sani-deco-1.jpg');
   $colCategoriesAlts = array('Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image',
                               'Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image');
-
+*/
 }
 function setExterieur(){
   global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
@@ -104,7 +104,7 @@ function setExterieur(){
   $titreH1 = 'Exterieur';
   $bgImgTitre = 'img/bgSanitaires.jpg';
   $sousTitre = 'Découvrez nos decorations d\'exterieur<br>Ainsi que les meuble, accessoires, on a tout pas cher wallah !';
-  $slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
+  /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
   $slidesAlts = array ('first slide', 'second slide', 'third slide', 'fourth slide', 'fifth slide');
   $colCategoriesTitles = array ('Carrelage salle de bain et WC', 'Carrelage Mural', 'Carrelage sol',
@@ -113,7 +113,7 @@ function setExterieur(){
                                 'img/sani-cuisine-1.jpg', 'img/sani-amenagement-wc.png', 'img/sani-deco-1.jpg');
   $colCategoriesAlts = array('Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image',
                               'Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image');
-
+*/
 }
 function setMur(){
   global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
@@ -123,7 +123,7 @@ function setMur(){
   $titreH1 = 'Mur';
   $bgImgTitre = 'img/bgSanitaires.jpg';
   $sousTitre = 'Découvrez nos amenagements muraux<br>outillages, accessoires, on a tout pas cher wallah !';
-  $slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
+  /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
   $slidesAlts = array ('first slide', 'second slide', 'third slide', 'fourth slide', 'fifth slide');
   $colCategoriesTitles = array ('Carrelage salle de bain et WC', 'Carrelage Mural', 'Carrelage sol',
@@ -132,7 +132,7 @@ function setMur(){
                                 'img/sani-cuisine-1.jpg', 'img/sani-amenagement-wc.png', 'img/sani-deco-1.jpg');
   $colCategoriesAlts = array('Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image',
                               'Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image');
-
+*/
 }
 function setAccessoires(){
   global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
@@ -142,7 +142,7 @@ function setAccessoires(){
   $titreH1 = 'Accessoires';
   $bgImgTitre = 'img/bgSanitaires.jpg';
   $sousTitre = 'Découvrez nos accessoires<br>et d\'autres trucs, on a tout pas cher wallah !';
-  $slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
+  /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
   $slidesAlts = array ('first slide', 'second slide', 'third slide', 'fourth slide', 'fifth slide');
   $colCategoriesTitles = array ('Carrelage salle de bain et WC', 'Carrelage Mural', 'Carrelage sol',
@@ -151,7 +151,7 @@ function setAccessoires(){
                                 'img/sani-cuisine-1.jpg', 'img/sani-amenagement-wc.png', 'img/sani-deco-1.jpg');
   $colCategoriesAlts = array('Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image',
                               'Carrelage categorie image', 'Carrelage categorie image', 'Carrelage categorie image');
-
+*/
 }
 
 ?>

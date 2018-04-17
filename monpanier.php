@@ -20,7 +20,7 @@
               <th>Quantité</th>
               <th>Prix Unitaire</th>
               <th>Total</th>
-              <th>Action</th>
+              <th>Suppression</th>
             </tr>
             <tr>
               <td>Planche parquet rouge ref:123ABC </td>
