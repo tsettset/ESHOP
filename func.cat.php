@@ -1,6 +1,8 @@
 <?php
 $breadcrumbItem1 = 'Accueil';
 $breadcrumbItem2 = 'Sanitaires';
+$breadcrumbLink1 = 'index.php';
+$breadcrumbLink2 = 'catalogue.php?page=sanitaires';
 $titreH1 = 'Sanitaires';
 $bgImgTitre = 'img/bgSanitaires.jpg';
 $sousTitre = 'Découvrez nos produits Sanitaires<br>Ainsi que leurs accessoires pour vous débarasser des nuisibles';
@@ -42,10 +44,12 @@ if (isset($_GET['page'])){
 }else setSanitaires();
 
 function setSanitaires(){
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  global $breadcrumbItem1, $breadcrumbItem2, $breadcrumbLink1, $breadcrumbLink2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  $breadcrumbLink1 = 'index.php';
+  $breadcrumbLink2 = 'catalogue.php?page=sanitaires';
+  $titreH1 = 'Sanitaires';
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Sanitaires';
-  $titreH1 = 'Sanitaires';
   $bgImgTitre = 'img/bgSanitaires.jpg';
   $sousTitre = 'Découvrez nos produits Sanitaires<br>Ainsi que leurs accessoires pour vous débarasser des nuisibles';
   $slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
@@ -61,7 +65,9 @@ function setSanitaires(){
 }
 
 function setCarrelage(){
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  global $breadcrumbItem1, $breadcrumbItem2, $breadcrumbLink1, $breadcrumbLink2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  $breadcrumbLink1 = 'index.php';
+  $breadcrumbLink2 = 'catalogue.php?page=carrelage';
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Carrelage';
   $titreH1 = 'Carrelage';
@@ -80,7 +86,9 @@ function setCarrelage(){
 }
 
 function setParquet(){
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  global $breadcrumbItem1, $breadcrumbItem2, $breadcrumbLink1, $breadcrumbLink2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  $breadcrumbLink1 = 'index.php';
+  $breadcrumbLink2 = 'catalogue.php?page=parquet';
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Parquet';
   $titreH1 = 'Parquet';
@@ -98,7 +106,9 @@ function setParquet(){
 */
 }
 function setExterieur(){
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  global $breadcrumbItem1, $breadcrumbItem2, $breadcrumbLink1, $breadcrumbLink2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  $breadcrumbLink1 = 'index.php';
+  $breadcrumbLink2 = 'catalogue.php?page=exterieur';
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Exterieur';
   $titreH1 = 'Exterieur';
@@ -116,8 +126,9 @@ function setExterieur(){
 */
 }
 function setMur(){
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  global $breadcrumbItem1, $breadcrumbItem2, $breadcrumbLink1, $breadcrumbLink2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  $breadcrumbLink1 = 'index.php';
+  $breadcrumbLink2 = 'catalogue.php?page=mur';
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Mur';
   $titreH1 = 'Mur';
@@ -135,8 +146,9 @@ function setMur(){
 */
 }
 function setAccessoires(){
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
-  global $breadcrumbItem1, $breadcrumbItem2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  global $breadcrumbItem1, $breadcrumbItem2, $breadcrumbLink1, $breadcrumbLink2, $titreH1, $bgImgTitre, $sousTitre, $slidesTitle, $slidesImgs, $slidesAlts, $colCategoriesTitles;
+  $breadcrumbLink1 = 'index.php';
+  $breadcrumbLink2 = 'catalogue.php?page=accessoires';
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Accessoires';
   $titreH1 = 'Accessoires';

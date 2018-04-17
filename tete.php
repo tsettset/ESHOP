@@ -7,7 +7,7 @@
         </div>
         <div class="row ligne2">
             <div class="col-md-4 logo">
-                <a href="accueil.php">
+                <a href="index.php">
                     <p>&nbsp;<span> E </span>SHOP<br></p>
                     <p>De l'élégance pour votre habitat !</p>
                 </a>

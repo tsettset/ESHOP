@@ -13,7 +13,8 @@
     <!--breadcrumb-->
     <?php
     $bc = array($breadcrumbItem1,$breadcrumbItem2);
-    afficheBreadcrumb($bc);
+    $bcLinks = array($breadcrumbLink1, $breadcrumbLink2);
+    afficheBreadcrumb($bc, $bcLinks);
     ?>
     <!--/breadcrumb-->
     <!--Titre de page-->

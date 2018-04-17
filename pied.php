@@ -17,10 +17,10 @@
 						</div>
 					</div>
 					<a href="#">Qui sommes-nous ?</a><br>
-					<a href="#">Nos Produits</a><br>
+					<a href="nosproduits.php">Nos Produits</a><br>
 					<a href="#">Nos Boutiques</a><br>
 					<a href="#">Demande de devis</a><br>
-					<a href="#">Nous contacter</a><br>
+					<a href="contact.php">Nous contacter</a><br>
 					<a href="#">Plan du site</a><br>
 					<a href="#">Professionnel</a><br>
 
@@ -29,17 +29,17 @@
 					<div class="titreFooter">INFORMATIONS</div>
 					<hr>
 					<a href="#">Votre commande</a><br>
-					<a href="#">Mon compte</a><br>
+					<a href="moncompte.php">Mon compte</a><br>
 					<a href="#">Aide / FAQ</a><br>
-					<a href="#">Délais et frais de livraison</a><br>
-					<a href="#">Sécurité de paiement</a><br>
-					<a href="#">Echange et retour express</a><br>
+					<a href="cgv.php#9">Délais et frais de livraison</a><br>
+					<a href="cgv.php#5">Sécurité de paiement</a><br>
+					<a href="cgv.php#12">Echange et retour express</a><br>
 					<a href="#">Parrainage</a><br>
 					<a href="#">Carte cadeau</a><br>
 					<a href="#">Points de fidélité</a><br>
 					<a href="#">Avoirs et remises</a><br>
-					<a href="#">Conditions Générales de vente</a><br>
-					<a href="#">Mentions légales</a><br>
+					<a href="cgv.php">Conditions Générales de vente</a><br>
+					<a href="mentionslegales.php">Mentions légales</a><br>
 
 				</div>
 				<div class="col-md-3 celluleFooter"  align="center">

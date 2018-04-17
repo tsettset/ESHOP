@@ -13,7 +13,8 @@
     <!--breadcrumb-->
     <?php
     $bc = array('Accueil','Pose');
-    afficheBreadcrumb($bc);
+    $bcLinks = array('index.php','pose.php');
+    afficheBreadcrumb($bc, $bcLinks);
     ?>
     <!--/breadcrumb-->
 
