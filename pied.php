@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container-fluid">
 	<footer class="row">
 		<div class="col-md-12" >
 			<div class="row">
@@ -21,7 +21,7 @@
 					<a href="#">Nos Boutiques</a><br>
 					<a href="#">Demande de devis</a><br>
 					<a href="contact.php">Nous contacter</a><br>
-					<a href="#">Plan du site</a><br>
+					<a href="plan.php">Plan du site</a><br>
 					<a href="#">Professionnel</a><br>
 
 				</div>

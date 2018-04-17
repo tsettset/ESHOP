@@ -26,7 +26,9 @@
           <div class="col-sm-12 col-lg-12">
             <h1 class="contact-titre">
               Nous contacter
-              <small> <br>&nbsp;&nbsp;&nbsp;Nos equipes vous repondront dans les plus brefs delais !</small>
+              <small>
+                <br>&nbsp;&nbsp;&nbsp;Nos equipes vous repondront dans les plus brefs delais !
+              </small>
             </h1>
           </div>
         </div>

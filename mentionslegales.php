@@ -40,7 +40,7 @@
 
             Curabitur vel tempus lorem, quis fermentum nibh. Duis non lorem elit. Nullam accumsan dictum molestie. Donec sodales, nisi quis tempus convallis, diam elit bibendum sem, eget aliquet enim sapien ut mauris. Phasellus sodales ipsum tellus, sit amet rutrum ligula auctor in. Donec rhoncus nulla eget libero aliquam, nec sodales arcu lobortis. Donec consequat lectus nibh, a fringilla mi vulputate vel. Proin posuere imperdiet bibendum. Sed in nisi vitae est condimentum dapibus id et nunc. Cras a ultrices turpis. Aenean non orci rutrum, vulputate magna nec, aliquet quam. Interdum et malesuada fames ac ante ipsum primis in faucibus.
             <br><br>
-            <strong>4. Le Site a fait l'objet d'une déclaration auprès de la CNIL (n°114887).</strong><br> L'utilisateur du Site peut exercer auprès du service client Mr Bricolage 75 boulevard Macdonald 75019 PARIS, son droit d'accès, de modification, de rectification et de suppression de données personnelles le concernant (article 40 de la loi « informatique et liberté » n°78-17 du 6 janvier 1978).
+            <strong>4. Le Site a fait l'objet d'une déclaration auprès de la CNIL (n°114887).</strong><br> L'utilisateur du Site peut exercer auprès du service client ESHOP.FR Avenue chaipukoi 75015 PARIS, son droit d'accès, de modification, de rectification et de suppression de données personnelles le concernant (article 40 de la loi « informatique et liberté » n°78-17 du 6 janvier 1978).
           </div>
         </div>
       </div>

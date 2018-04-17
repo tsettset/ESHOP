@@ -10,3 +10,4 @@
 <link rel="stylesheet" type="text/css" href="css/categorie.css">
 
 <style type="text/css">a:link{text-decoration:none;}</style>
+<script src="js/fontawesome.js"></script>
