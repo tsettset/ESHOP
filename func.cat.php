@@ -92,7 +92,7 @@ function setParquet(){
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Parquet';
   $titreH1 = 'Parquet';
-  $bgImgTitre = 'img/bgSanitaires.jpg';
+  $bgImgTitre = 'img/bgParquet.jpg';
   $sousTitre = 'Découvrez nos parquets<br>Et leurs outillages, accessoires, on a tout pas cher wallah !';
   /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
@@ -112,8 +112,8 @@ function setExterieur(){
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Exterieur';
   $titreH1 = 'Exterieur';
-  $bgImgTitre = 'img/bgSanitaires.jpg';
-  $sousTitre = 'Découvrez nos decorations d\'exterieur<br>Ainsi que les meuble, accessoires, on a tout pas cher wallah !';
+  $bgImgTitre = 'img/bgExterieur.jpg';
+  $sousTitre = 'Découvrez nos decorations d\'exterieur<br>Ainsi que les meubles, accessoires, on a tout pas cher wallah !';
   /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
   $slidesAlts = array ('first slide', 'second slide', 'third slide', 'fourth slide', 'fifth slide');
@@ -132,7 +132,7 @@ function setMur(){
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Mur';
   $titreH1 = 'Mur';
-  $bgImgTitre = 'img/bgSanitaires.jpg';
+  $bgImgTitre = 'img/bgMur.jpg';
   $sousTitre = 'Découvrez nos amenagements muraux<br>outillages, accessoires, on a tout pas cher wallah !';
   /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
@@ -152,7 +152,7 @@ function setAccessoires(){
   $breadcrumbItem1 = 'Accueil';
   $breadcrumbItem2 = 'Accessoires';
   $titreH1 = 'Accessoires';
-  $bgImgTitre = 'img/bgSanitaires.jpg';
+  $bgImgTitre = 'img/bgAccessoires.jpg';
   $sousTitre = 'Découvrez nos accessoires<br>et d\'autres trucs, on a tout pas cher wallah !';
   /*$slidesTitle = array('Découvrez nos suggestions', 'Des combinaisons imaginées par nos équipes', 'Personnalisez nos idees a votre décoration', 'Voila voila', 'sinon ca va vous ?');
   $slidesImgs = array ('img/img1.jpg', 'img/img2.jpg', 'img/img3.jpg', 'img/img4.jpg', 'img/img5.jpg');
