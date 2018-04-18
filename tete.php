@@ -8,19 +8,17 @@
         <div class="row ligne2">
             <div class="col-md-4 logo">
                 <a href="accueil.php">
-                    <p>&nbsp;<span> E </span>SHOP<br></p>
+                    <p><a href="accueil.php">&nbsp;<span> E </span>SHOP<br></a></p>
                     <p>De l'élégance pour votre habitat !</p>
                 </a>
             </div>
             <div class="col-sm-4 offset-sm-4">
                 <div class="row ligne3 text-center">
                     <div class="col-sm-6">
-                        <a href="formulaire.php">
-                            <div class="row">
-                                <div class="test">Devis Personnalisé<br><span>Devis gratuit sous 24h</span></div>&nbsp;
-                                <div class="test2"><img class="float-left" src="img/devis.png" title="moncompte" alt="user"/></div>
-                            </div>
-                        </a>
+                        <div class="row">
+                            <div class="test"><a href="devis_perso.php">Devis Personnalisé</a><br><span>Devis gratuit sous 24h</span></div>&nbsp;
+                            <div class="test2"><img class="float-left" src="img/devis.png" title="moncompte" alt="user"/></div>
+                        </div>
                     </div>
                     <div class="col-sm-6">
                         <a href="#">
@@ -35,7 +33,7 @@
                     <div class="col-sm-6 ">
                         <a href="#">
                             <div class="row">
-                                <div class="test"> Conseils et questions<br><span>Rappel automatique gratuit</span></div>&nbsp;
+                                <div class="test"><a href="tete.php" data-toggle="modal" data-target="#myModal">Conseils et questions</a><br><span>Rappel automatique gratuit</span></div>&nbsp;
                                 <div class="test2 "><img class="float-left" src="img/questions.png" title="moncompte" alt="user"/></div>
                             </div>
                         </a>
@@ -96,5 +94,28 @@
                 </div>
             </form>
         </div>
-      </nav>
+    </nav>
 </div>
+<!--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Questions et Réponses</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<p style="color :#DC1767; text-decoration: underline">1- Comment suivre ma commande ?</p>
+<p>Si votre commande n’a pas été expédiée, vous pouvez suivre votre commande dans la rubrique Mon suivi de commande de votre compte nous contacter. </p><br>
+<p style="color :#DC1767; text-decoration: underline">2- J’ai reçu un article cassé ou non-conforme. </p>
+<p>Si l’article que vous avez reçu est cassé ou non-conforme, veuillez nous contacter afin que nous puissions vous proposer la solution la plus appropriée au produit en question.
+Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>     
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<br>-->

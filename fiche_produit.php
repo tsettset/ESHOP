@@ -4,7 +4,7 @@ include 'tete.php';
 
 ?>
 
-<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+
 <style>
 
 
@@ -19,6 +19,8 @@ include 'tete.php';
 	.legend { color: white; font-size: 28px; text-align: center; }
 	tr>td:last-child{text-align: center; color : rgb(97, 97, 97); }
 	td{ padding : 10px;}
+	.zoomer {display:inline-block; position: relative;}
+	.zoomer img {display: block;}
 </style>
 <br>
 <br>
@@ -55,8 +57,9 @@ include 'tete.php';
 	<div class="row">
 		<div class="col-md-8 text-center">
 			<div class="haut">
+			<span class="zoomer" id="zoom">
 				<img src="carrsol1.jpg" alt="image principale" class="img-fluid" id="principale">
-				<div class="legend">Mon image 1</div>
+				</span>		
 			</div>
 			<div class="bas">
 				<div class="row">
@@ -190,7 +193,13 @@ include 'tete.php';
 
 	</table>
 </div>
-
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+	<script src='jquery.zoom.js'></script>
+	<script>
+		$(document).ready(function(){
+			$('#zoom').zoom();
+		});
+	</script>
 
 
 

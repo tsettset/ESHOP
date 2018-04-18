@@ -35,7 +35,7 @@ background-image: linear-gradient(to bottom, white, #E9F1F8);
 
 
     color : white;
-    background-color: red;
+    background-color:#DC1767;
 }
 
 .logo p:last-child{
@@ -318,4 +318,32 @@ a{
     color : black;
 }
 
+.side-corner-tag {
+   position: relative;
+   color: #fff;
+   display: inline-block;
+   overflow: hidden;
+   font-weight: 500;
+}
 
+.side-corner-tag p span {
+   position: absolute;
+   display: inline-block;
+   left: -40px;
+   text-align: center;
+   text-transform: uppercase;
+   top: 50px;
+   background: #f52674;
+   width: 200px;
+   font-size: 14px;
+   padding: 3px 10px;
+   -webkit-transform: rotate(-45deg);
+   -moz-transform: rotate(-45deg);
+   -o-transform: rotate(-45deg);
+   -ms-transform: rotate(-45deg);
+}
+
+.modal-header{
+    
+    background-color: #DC1767; 
+}

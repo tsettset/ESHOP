@@ -112,20 +112,20 @@
                                 19,99 € TTC /m²
                             </div>
                             <div class="row">
-                                <div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;Voir le produit</div>
+                                <div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;<a href="fiche_produit.php">Voir le produit</a></div>
                                 <div class="col fond text-white">Ajout au panier</div>
                             </div>
 
                         </div>
                         <div class="col coulgris text-white">
-                            <img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;Demande de devis personnalisé
+                            <img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;<a href="devis_perso.php">Demande de devis personnalisé</a>
                         </div>
                     </div>
                 </div>
                 <!------------------------------------------------------------------------------------------------------------------------------------------------------>
                 <div class="col">
                     <div class="ajuster text-center">
-                      <img class="img-fluid tail2" src="img/carr5.jpg" alt="imag4">
+                      <img class="img-fluid tail2" src="carrsol1.jpg" alt="imag4">
                        <div class="band band2"></div>
                         <div class="container">
                             <div class="col">
@@ -135,20 +135,20 @@
                                 19,99 € TTC /m²
                             </div>
                             <div class="row">
-                                <div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;Voir le produit</div>
+                                <div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;<a href="fiche_produit.php">Voir le produit</a></div>
                                 <div class="col fond text-white">Ajout au panier</div>
                             </div>
 
                         </div>
                         <div class="col coulgris text-white">
-                            <img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;Demande de devis personnalisé
+                            <img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;<a href="devis_perso.php">Demande de devis personnalisé</a>
                         </div>
                     </div>
                 </div>
                 <!------------------------------------------------------------------------------------------------------------------------------------------------------>
                 <div class="col">
                     <div class="ajuster text-center">
-                        <img class="img-fluid tail2" src="img/parq6.jpg" alt="imag4">
+                        <img class="img-fluid tail2" src="carrsol1.jpg" alt="imag4">
                         <div class="container">
                             <div class="col">
                                 Carreaux de ciment imitation
@@ -157,13 +157,13 @@
                                 19,99 € TTC /m²
                             </div>
                             <div class="row">
-                                <div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;Voir le produit</div>
+                                <div class="col bg-dark text-white"><img class="img-fluid" src="img/loupe2.png" alt="vue">&nbsp;&nbsp;<a href="fiche_produit.php">Voir le produit</a></div>
                                 <div class="col fond text-white">Ajout au panier</div>
                             </div>
 
                         </div>
                         <div class="col coulgris text-white">
-                            <img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;Demande de devis personnalisé
+                            <img class="img-fluid" src="img/devis2.png" alt="devis">&nbsp;&nbsp;<a href="devis_perso.php">Demande de devis personnalisé</a>
                         </div>
                     </div>
                 </div>
