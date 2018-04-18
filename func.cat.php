@@ -13,7 +13,7 @@ $slidesAlts = array ('combinaisons salle de bain', 'combinaisons salle de bain',
 $colCategoriesTitles = array ('Carrelage salle de bain et WC', 'Evacuation des eaux usees', 'Amenagement salle de bain',
                                 'Amenagement cuisine', 'Amenagement WC', 'Accessoires deco sanitaires');
 $colCategoriesImgs = array( 'img/carr_sdb_01.jpg', 'img/sani-eaux-usees.jpg', 'img/combo-sdb-2.jpg',
-                              'img/sani-cuisine-1.jpg', 'img/sani-amenagement-wc.png', 'img/sani-deco-1.jpg');
+                              'img/sani-cuisine-1.jpg', 'img/sani-amenagement-wc.jpg', 'img/sani-deco-1.jpg');
 $colCategoriesAlts = array('Sanitaires categorie image', 'Sanitaires categorie image', 'Sanitaires categorie image',
                             'Sanitaires categorie image', 'Sanitaires categorie image', 'Sanitaires categorie image');
 
