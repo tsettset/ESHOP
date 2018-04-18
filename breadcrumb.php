@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-||||||| merged common ancestors
-=======
 <?php
 function afficheBreadcrumb($bcArray, $bcLinksArray){
   if (!empty($bcArray) && !empty($bcLinksArray)){?>
@@ -21,4 +18,3 @@ function afficheBreadcrumb($bcArray, $bcLinksArray){
   }
 }
 ?>
->>>>>>> menu_haut

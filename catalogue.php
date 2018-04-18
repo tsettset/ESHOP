@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-||||||| merged common ancestors
-=======
 <?php require('func.cat.php'); ?>
 <?php require('breadcrumb.php'); ?>
 <!DOCTYPE html>
@@ -178,4 +175,3 @@
   ?>
 </body>
 </html>
->>>>>>> menu_haut

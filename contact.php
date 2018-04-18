@@ -18,7 +18,6 @@
     afficheBreadcrumb($bc, $bcLinks);
     ?>
     <!--/breadcrumb-->
-    <!------ Include the above in your HEAD tag ---------->
 
     <div class="contact-jumbotron contact-jumbotron-sm">
       <div class="container">
@@ -115,4 +114,3 @@
                 ?>
               </body>
               </html>
->>>>>>> menu_haut
