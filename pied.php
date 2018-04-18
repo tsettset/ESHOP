@@ -18,9 +18,9 @@
 					</div>
 					<a href="#">Qui sommes-nous ?</a><br>
 					<a href="#">Nos Produits</a><br>
-					<a href="#">Nos Boutiques</a><br>
-					<a href="#">Demande de devis</a><br>
-					<a href="#">Nous contacter</a><br>
+					<a href="boutique.php">Nos Boutiques</a><br>
+					<a href="devis_perso.php">Demande de devis</a><br>
+					<a href="">Nous contacter</a><br>
 					<a href="#">Plan du site</a><br>
 					<a href="#">Professionnel</a><br>
 
@@ -28,9 +28,9 @@
 				<div class="col-md-3 celluleFooter">
 					<div class="titreFooter">INFORMATIONS</div>
 					<hr>
-					<a href="#">Votre commande</a><br>
+					<a href="commande.php">Votre commande</a><br>
 					<a href="#">Mon compte</a><br>
-					<a href="#">Aide / FAQ</a><br>
+					<a href="questionsreponses.php">Aide / FAQ</a><br>
 					<a href="#">Délais et frais de livraison</a><br>
 					<a href="#">Sécurité de paiement</a><br>
 					<a href="#">Echange et retour express</a><br>

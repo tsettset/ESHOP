@@ -35,7 +35,7 @@ background-image: linear-gradient(to bottom, white, #E9F1F8);
 
 
     color : white;
-    background-color: red;
+    background-color:#DC1767;
 }
 
 .logo p:last-child{
@@ -179,20 +179,23 @@ form{
 
     width : 800px;
     height : 200px;
+    position: relative;
     overflow: hidden;
-    z-index: 1
+
 }
 
 .band{
     position: absolute;
-    background-color : #DC1767;
-    transform: rotate(20deg);
-    left: 10px;
-    font-size:18px; /* Taille des caractères */
-    width:50px; /* Largeur du div */
-    height:10px; 
-    z-index: 2;
-   
+    /*background-color : #DC1767;*/
+    transform: rotate(-135deg);
+    width: 0;
+    left : 130px;
+    height: 0;
+    top : -15px;
+    border-top: 30px solid #DC1767;
+    border-right: 30px solid transparent;
+
+
 }
 
 
@@ -315,4 +318,32 @@ a{
     color : black;
 }
 
+.side-corner-tag {
+   position: relative;
+   color: #fff;
+   display: inline-block;
+   overflow: hidden;
+   font-weight: 500;
+}
 
+.side-corner-tag p span {
+   position: absolute;
+   display: inline-block;
+   left: -40px;
+   text-align: center;
+   text-transform: uppercase;
+   top: 50px;
+   background: #f52674;
+   width: 200px;
+   font-size: 14px;
+   padding: 3px 10px;
+   -webkit-transform: rotate(-45deg);
+   -moz-transform: rotate(-45deg);
+   -o-transform: rotate(-45deg);
+   -ms-transform: rotate(-45deg);
+}
+
+.modal-header{
+    
+    background-color: #DC1767; 
+}
