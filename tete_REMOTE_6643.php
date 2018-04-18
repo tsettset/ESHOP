@@ -7,12 +7,8 @@
         </div>
         <div class="row ligne2">
             <div class="col-md-4 logo">
-<<<<<<< HEAD
-                <a href="index.php">
-                    <p><a href="index.php">&nbsp;<span> E </span>SHOP<br></a></p>
-=======
-              
->>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89
+                <a href="accueil.php">
+                    <p><a href="accueil.php">&nbsp;<span> E </span>SHOP<br></a></p>
                     <p>De l'élégance pour votre habitat !</p>
                 </a>
             </div>
@@ -114,11 +110,7 @@
 <p>Si votre commande n’a pas été expédiée, vous pouvez suivre votre commande dans la rubrique Mon suivi de commande de votre compte nous contacter. </p><br>
 <p style="color :#DC1767; text-decoration: underline">2- J’ai reçu un article cassé ou non-conforme. </p>
 <p>Si l’article que vous avez reçu est cassé ou non-conforme, veuillez nous contacter afin que nous puissions vous proposer la solution la plus appropriée au produit en question.
-<<<<<<< HEAD
-Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>
-=======
-Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>
->>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89
+Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>     
 </div>
 <div class="modal-footer">
 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -126,8 +118,4 @@ Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à
 </div>
 </div>
 </div>
-<<<<<<< HEAD
 <br>-->
-=======
-<br>-->
->>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89

@@ -11,7 +11,8 @@
                 <a href="index.php">
                     <p><a href="index.php">&nbsp;<span> E </span>SHOP<br></a></p>
 =======
-              
+                <a href="accueil.php">
+                    <p><a href="accueil.php">&nbsp;<span> E </span>SHOP<br></a></p>
 >>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89
                     <p>De l'élégance pour votre habitat !</p>
                 </a>
@@ -117,7 +118,7 @@
 <<<<<<< HEAD
 Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>
 =======
-Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>
+Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>     
 >>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89
 </div>
 <div class="modal-footer">
