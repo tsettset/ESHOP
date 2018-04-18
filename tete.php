@@ -8,11 +8,15 @@
         <div class="row ligne2">
             <div class="col-md-4 logo">
 <<<<<<< HEAD
-                <a href="index.php">
-                    <p><a href="index.php">&nbsp;<span> E </span>SHOP<br></a></p>
+<<<<<<< HEAD
 =======
-              
+
 >>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89
+||||||| merged common ancestors
+=======
+                <a href="index.php">
+                    <p>&nbsp;<span> E </span>SHOP<br></p>
+>>>>>>> menu_haut
                     <p>De l'élégance pour votre habitat !</p>
                 </a>
             </div>
@@ -25,7 +29,7 @@
                         </div>
                     </div>
                     <div class="col-sm-6">
-                        <a href="#">
+                        <a href="moncompte.php">
                             <div class="row">
                                 <div class="test">Mon compte<br><span>Se connecter</span></div>&nbsp;
                                 <div class="test2"><img class="float-left" src="img/users.png" title="moncompte" alt="user"/></div>
@@ -43,7 +47,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 ">
-                        <a href="#">
+                        <a href="monpanier.php">
                             <div class="row">
                                 <div class="test">Mon panier<br><span>0€ - 0 Produit(s)</span></div>&nbsp;
                                 <div class="test2"><img class="float-left" src="img/panier.png" title="moncompte" alt="user"/></div>
@@ -64,28 +68,28 @@
         <div class="collapse navbar-collapse" id="collapse_target">
             <ul class="navbar-nav col-md-7 mr-5">
                 <li class="nav-item">
-                    <a class=" nav-link" href="carrelage.php">Carrelage</a>
+                    <a class=" nav-link" href="catalogue.php?page=carrelage">Carrelage</a>
                 </li>
                 <li class="nav-item">
-                    <a class=" nav-link" href="#">Parquet</a>
+                    <a class=" nav-link" href="catalogue.php?page=parquet">Parquet</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Exterieur</a>
+                    <a class="nav-link" href="catalogue.php?page=exterieur">Exterieur</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text" href="#">Mur</a>
+                    <a class="nav-link text" href="catalogue.php?page=mur">Mur</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Accessoires</a>
+                    <a class="nav-link" href="catalogue.php?page=accessoires">Accessoires</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Pose</a>
+                    <a class="nav-link" href="pose.php">Pose</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="sanitaires.php">Sanitaires</a>
+                    <a class="nav-link" href="catalogue.php?page=sanitaires">Sanitaires</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="contact.php">Contact</a>
                 </li>
             </ul>
             <form class="form-inline">

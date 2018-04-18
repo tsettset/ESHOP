@@ -1,0 +1,14 @@
+.contact-jumbotron {
+  background: #EEE;
+  color: #555;
+  border-radius: 0px;
+}
+.contact-jumbotron-sm {
+  padding-top: 24px;
+  padding-bottom: 24px; }
+.contact-jumbotron small {
+  color: #999;
+}
+.contact-titre small {
+  font-size: 24px;
+}

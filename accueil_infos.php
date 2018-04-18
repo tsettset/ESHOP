@@ -1,5 +1,5 @@
-<div class="container-fluid" >
-	<fieldset class="accueil_infos">
+<div class="row" >
+	<fieldset class="accueil_infos col-md-10 offset-1"> 
 		<legend>
 			<div class="etiquette_accueil_bas">ESHOP</div>
 			<div class="arrow-right"></div>

@@ -11,7 +11,7 @@ background-image: linear-gradient(to bottom, white, #E9F1F8);
     background-color: #333;
     text-align: center;
     color : white;
-    font-size: 12px;    
+    font-size: 12px;
 
 }
 
@@ -112,7 +112,7 @@ figure {
 margin-left: 30px;
 content:url(img/users.png);
 }
-*/    
+*/
 #basic-addon1{
 
     border-top-right-radius: 3px;
@@ -157,7 +157,7 @@ form{
 .carousel-indicators li{
     border: 1px solid white;
     width: 12px;
-    height: 12px; 
+    height: 12px;
 }
 
 .carousel-indicators{
@@ -186,6 +186,7 @@ form{
 
 .band{
     position: absolute;
+<<<<<<< HEAD
     /*background-color : #DC1767;*/
     transform: rotate(-135deg);
     width: 0;
@@ -194,8 +195,9 @@ form{
     top : -15px;
     border-top: 30px solid #DC1767;
     border-right: 30px solid transparent;
-
-
+||||||| merged common ancestors
+=======
+>>>>>>> menu_haut
 }
 
 
@@ -248,8 +250,8 @@ form{
 
 
 
-.produits{ 
-    background: rgb(246, 39, 117); 
+.produits{
+    background: rgb(246, 39, 117);
     /*width: 90px; */
     text-align: center;
     display: inline-block;
@@ -263,7 +265,7 @@ form{
 
 }
 .triangle{
-    width: 0; 
+    width: 0;
     height: 30px;
     border-top: 30px solid transparent;
     border-bottom: 0 solid transparent;
@@ -291,7 +293,7 @@ hr{
 
 .couleur {
 
-    color: rgb(246, 39, 117); 
+    color: rgb(246, 39, 117);
 }
 
 .ajuster{
@@ -318,6 +320,7 @@ a{
     color : black;
 }
 
+<<<<<<< HEAD
 .side-corner-tag {
    position: relative;
    color: #fff;
@@ -344,6 +347,21 @@ a{
 }
 
 .modal-header{
-    
-    background-color: #DC1767; 
+
+    background-color: #DC1767;
 }
+||||||| merged common ancestors
+
+=======
+
+.row-pose{
+  padding-top:30px;
+}
+
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+.fa-fw {width: 2em;}
+
+.prof-title{
+
+}
+>>>>>>> menu_haut

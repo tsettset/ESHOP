@@ -5,7 +5,9 @@
 <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/pied.css">
+<link rel="stylesheet" href="css/contact.css">
 <link rel="stylesheet" type="text/css" href="css/accueil_infos.css">
 <link rel="stylesheet" type="text/css" href="css/categorie.css">
 
 <style type="text/css">a:link{text-decoration:none;}</style>
+<script src="js/fontawesome.js"></script>

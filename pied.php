@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container-fluid">
 	<footer class="row">
 		<div class="col-md-12" >
 			<div class="row">
@@ -17,29 +17,38 @@
 						</div>
 					</div>
 					<a href="#">Qui sommes-nous ?</a><br>
-					<a href="#">Nos Produits</a><br>
+<<<<<<< HEAD
+||||||| merged common ancestors
+=======
+					<a href="nosproduits.php">Nos Produits</a><br>
 					<a href="boutique.php">Nos Boutiques</a><br>
 					<a href="devis_perso.php">Demande de devis</a><br>
-					<a href="">Nous contacter</a><br>
-					<a href="#">Plan du site</a><br>
-					<a href="#">Professionnel</a><br>
+					<a href="contact.php">Nous contacter</a><br>
+					<a href="plan.php">Plan du site</a><br>
+					<a href="professionnel.php">Professionnel</a><br>
+>>>>>>> menu_haut
+
 
 				</div>
 				<div class="col-md-3 celluleFooter">
 					<div class="titreFooter">INFORMATIONS</div>
 					<hr>
+<<<<<<< HEAD
+||||||| merged common ancestors
+=======
 					<a href="commande.php">Votre commande</a><br>
-					<a href="#">Mon compte</a><br>
+					<a href="moncompte.php">Mon compte</a><br>
 					<a href="questionsreponses.php">Aide / FAQ</a><br>
-					<a href="#">Délais et frais de livraison</a><br>
-					<a href="#">Sécurité de paiement</a><br>
-					<a href="#">Echange et retour express</a><br>
+					<a href="cgv.php#9">Délais et frais de livraison</a><br>
+					<a href="cgv.php#5">Sécurité de paiement</a><br>
+					<a href="cgv.php#12">Echange et retour express</a><br>
+>>>>>>> menu_haut
 					<a href="#">Parrainage</a><br>
 					<a href="#">Carte cadeau</a><br>
 					<a href="#">Points de fidélité</a><br>
 					<a href="#">Avoirs et remises</a><br>
-					<a href="#">Conditions Générales de vente</a><br>
-					<a href="#">Mentions légales</a><br>
+					<a href="cgv.php">Conditions Générales de vente</a><br>
+					<a href="mentionslegales.php">Mentions légales</a><br>
 
 				</div>
 				<div class="col-md-3 celluleFooter"  align="center">

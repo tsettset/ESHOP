@@ -88,9 +88,6 @@
         <br>
     </div>
 
-
-
-
     <div class="container" style="padding :0;">
 
         <div class="produits">NOS PRODUITS</div>
