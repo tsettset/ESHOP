@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-||||||| merged common ancestors
-=======
 <?php
 $breadcrumbItem1 = 'Accueil';
 $breadcrumbItem2 = 'Sanitaires';
@@ -170,4 +167,3 @@ function setAccessoires(){
 }
 
 ?>
->>>>>>> menu_haut

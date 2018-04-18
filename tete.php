@@ -7,16 +7,8 @@
         </div>
         <div class="row ligne2">
             <div class="col-md-4 logo">
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89
-||||||| merged common ancestors
-=======
                 <a href="index.php">
                     <p>&nbsp;<span> E </span>SHOP<br></p>
->>>>>>> menu_haut
                     <p>De l'élégance pour votre habitat !</p>
                 </a>
             </div>
@@ -104,34 +96,3 @@
         </div>
     </nav>
 </div>
-<!--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Questions et Réponses</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">&times;</span>
-</button>
-</div>
-<div class="modal-body">
-<p style="color :#DC1767; text-decoration: underline">1- Comment suivre ma commande ?</p>
-<p>Si votre commande n’a pas été expédiée, vous pouvez suivre votre commande dans la rubrique Mon suivi de commande de votre compte nous contacter. </p><br>
-<p style="color :#DC1767; text-decoration: underline">2- J’ai reçu un article cassé ou non-conforme. </p>
-<p>Si l’article que vous avez reçu est cassé ou non-conforme, veuillez nous contacter afin que nous puissions vous proposer la solution la plus appropriée au produit en question.
-<<<<<<< HEAD
-Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>
-=======
-Nous vous invitons à joindre des photos montrant le dommage ou de l’erreur à votre message.</p><br>
->>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89
-</div>
-<div class="modal-footer">
-<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-</div>
-</div>
-</div>
-</div>
-<<<<<<< HEAD
-<br>-->
-=======
-<br>-->
->>>>>>> ade957f53c1cd4f66c0a5da30d7235ccf45bba89

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-||||||| merged common ancestors
-=======
 <?php require('breadcrumb.php'); ?>
 <!DOCTYPE html>
 <html>

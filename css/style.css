@@ -186,7 +186,6 @@ form{
 
 .band{
     position: absolute;
-<<<<<<< HEAD
     /*background-color : #DC1767;*/
     transform: rotate(-135deg);
     width: 0;
@@ -195,9 +194,6 @@ form{
     top : -15px;
     border-top: 30px solid #DC1767;
     border-right: 30px solid transparent;
-||||||| merged common ancestors
-=======
->>>>>>> menu_haut
 }
 
 
